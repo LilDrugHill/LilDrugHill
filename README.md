@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 My name is Tsimur.
 <br>I'm a Junior Python Developer interested in backend.
 <br>
