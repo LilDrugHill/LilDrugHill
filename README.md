@@ -1,10 +1,10 @@
 ### Olá 👋
 My name is Tsimur.
-<br>I'm a Junior Python Developer interested in backend.
+<br>I'm a Python Developer and Devops engineer .
 <br>
 ### Contact me
 📧 Email: [smookingrow@icloud.com](mailto:smookingrow@icloud.com)
-<br>📑 Telegram: [@check1point](https://t.me/check1point)
+<br>📑 Telegram: [@weeeeedone](https://t.me/weeeeedone)
 ___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilDrugHill&show_icons=true&theme=dark
 )](https://github.com/anuraghazra/github-readme-stats)
