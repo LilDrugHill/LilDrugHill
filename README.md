@@ -1,7 +1,5 @@
 ### Olá 👋
 My name is Tsimur.
-<br>I'm a Full Stack engineer(dev + ci/cd) 
-<br>
 ### Contact me
 📧 Email: [smookingrow@icloud.com](mailto:smookingrow@icloud.com)
 <br>📑 Telegram: [@weeeeedone](https://t.me/weeeeedone)
