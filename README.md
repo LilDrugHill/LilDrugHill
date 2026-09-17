@@ -2,7 +2,7 @@
 My name is Tsimur.
 ### Contact me
 📧 Email: [smookingrow@icloud.com](mailto:smookingrow@icloud.com)
-<br>📑 Telegram: [@weeeeedone](https://t.me/weeeeedone)
+<br>📑 Telegram: [@weeeeedone](https://t.me/orucouId)
 ___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilDrugHill&show_icons=true&theme=dark
 )](https://github.com/anuraghazra/github-readme-stats)
